@@ -1,2 +1,2 @@
-# LiftUp
+# EcoBuild
 Framework/tool : React (Vite)
